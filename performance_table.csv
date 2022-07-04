@@ -1,0 +1,16 @@
+Model,Test Accuracy,Precision,Recall,F1
+Multinomial Naive Bayes,62.25,0.62,0.62,0.62
+Multinomial Naive Bayes+,62.25,0.62,0.62,0.62
+SVC,61.55,0.62,0.62,0.62
+SVC+,66.95,0.67,0.67,0.67
+Logistic Regression,66.76,0.67,0.67,0.67
+Logistic Regression+,66.76,0.67,0.67,0.67
+Random Forest,63.97,0.64,0.64,0.64
+Random Forest+,63.97,0.64,0.64,0.64
+Gradient Boosting,62.06,0.62,0.62,0.62
+Gradient Boosting+,62.08,0.62,0.62,0.62
+KNN,51.17,0.51,0.51,0.51
+KNN+,51.17,0.51,0.51,0.51
+XGBoost,63.67,0.64,0.64,0.64
+XGBoost+,63.67,0.64,0.64,0.64
+Cat Boost,62.78,0.63,0.63,0.63
